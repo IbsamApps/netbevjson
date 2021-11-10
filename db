@@ -1,0 +1,119 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "admob",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://i.ibb.co/ZMDZqWb/i.jpg",
+      "state" : "free",
+      "title" : "📢TÜRKCELL BEDAVA İNTERNET KAMPANYALARI📢",
+      "description" : "",
+      "written" : "<ul><li>gollercepte uygulamasını indir seçtiğin maça ücretsiz oyun oyna gol başına 100MB kazan ücretsizdir. <br></li><li>&nbsp;️bip uygulaması üzerinden bip yıldızları kanalını takip et verilen miktarda mesaj at günlük 1GB kazan ücretsizdir. <br></li><li>&nbsp;salla kazan dijital operator uygulamasını play store veya app store indir her cuma salla kazan hakkını kullan internetten dakikaya sms birçok ödül kazan ücretsizdir. <br></li><li>bip uygulaması üzerinden senyapdiye kanalını takip et her hafta yenilenen görevleri yap GB kazan ücretsizdir. <br></li><li> ️bip uygulaması üzerinden kim 1gb ister kanalını takip et her hafta soru çöz 1GB kadar kazan. Her hafta pazartesi yeni 1 hak kazanırsınız. Ücretsizdir.&nbsp;<br></li><li>bip uygulaması üzerinden bil kazan kanalını takip et 1GB kadar internet kazan. Her hafta pazartesi yeni 1 hak kazanırsınız. Ücretsizdir. <br></li><li>&nbsp;️Play store veya app store den GNÇ uygulamasını indirip sana özel haftada 2 gün yumurta çatlatip bol bol internet kazanabilirsin. Tamamen Ücretsizdir .<br></li><li>GNC uygulamasını indir. Ana sayfada Bastı Kaptı kampanyası var hemen katil bol internet kazan her hafta kazanabilirsin. Üstelik bedava hiçbir ücret odemenize gerek yoktur. <br></li><li>BİZCE uygulamasini indir giriş yap her gün kupon topla biriktirdiğin kuponlar ile internet al tamamen bedavadir. Hiçbir ücret ödemenize gerek yoktur. <br></li><li>yaani uygulamasını indir. Daha sonra giriş yap. Ana sayfada Kim Gb ister kampanyası katıl soruları çöz internet kazan. Tamamen bedavadır. Ücretsizdir. <br></li><li>&nbsp;Bip uygulamasi uzerinden hediye yarisini takip ederek bedava internet kazanabilirsiniz.</li></ul><p><b>TURKCELL YENİ İNTERNET KAMPANYASI ÇIKARIRSA UYGULAMA BİLDİRİM ATACAKTIR. UYGULAMAYI KULLAN YENİ ÇIKAN İNTERNET KAMPANYALARINDAN ANINDA HABERDAR OL</b></p><p><br></p>"
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://i.ibb.co/JrRKtsN/voda.jpg",
+      "state" : "free",
+      "title" : "📢VODAFONE BEDAVA İNTERNET KAMPANYALARI📢 ",
+      "description" : "",
+      "written" : "<p><b></b><br></p><ul><li><b></b>&nbsp;vodafone yanımda uygulamasını indir her hafta çarkı çevir internetten, dakikaya, sms kadar birçok hediye kazan Tamamen ücretsizdir <br></li><li>seviyorum interneti testi internet tarayıcısına yazıp aratin Vodafone resmi sitesindeki internet testini doldurun 2GB internet kazanın Tamamen Ücretsizdir.<br></li></ul><p><b>(VODAFONE YENİ BEDAVA İNTERNET KAMPANYASI ÇIKARINCA UYGULAMA BİLDİRİM ATACAKTIR. UYGULAMAMIZI KULLANARAK YENİ İNTERNET KAMPANYALARINDAN ANINDA HABERDAR OLABİLİRSİN)</b><br></p>"
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://i.ibb.co/NpRzycT/turktelecom.jpg",
+      "state" : "free",
+      "title" : "📢TÜRK TELEKOM BEDAVA İNTERNET KAMPANYALARI📢",
+      "description" : "",
+      "written" : "<p><br></p><ul><li><b></b>️TÜRKTELEKOM online işlemler uygulamasını play store veya app store indir. Her çarşamba ücretsiz sil süpür yap birçok farklı hediye internet kazan. Tamamen Ücretsizdir.<br></li></ul><p><br></p><p><b><em>(TURKTELEKOM YENİ BEDAVA İNTERNET KAMPANYASI ÇIKARINCA UYGULAMA SİZLERE BİLDİRİM ATACAKTIR. UYGULAMAMIZI KULLANARAK YENİ İNTERNET KAMPANYALARINDAN ANINDA HABERDAR OLABİLİRİSİNİZ.)</em></b><br></p>"
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://i.ibb.co/ccQRZjP/bimcel.jpg",
+      "state" : "free",
+      "title" : "📢BİMCELL BEDAVA İNTERNET KAMPANYALARI📢",
+      "description" : "",
+      "written" : "<p><br></p><ul><li>&nbsp;9GB, 300 DAKİKA, 300 SMS Hattınız aktif olduktan sonra, 30 Gün içerisinde BIMCELL BONUS yazıp 4551’e gönderebilirsiniz! TAMAMEN ÜCRETSİZDİR hattı yeni alınca yapmalısınız.<br></li><li>TürkTelekom online işlemler uygulamasını indirerek her hafta sil süpür yapabilirsiniz.</li></ul><p><br></p><p><em><b>(BİMCELL YENİ BEDAVA İNTERNET KAMPANYASI ÇIKARINCA UYGULAMA SİZLERE BİLDİRİM ATACAKTIR. UYGULAMAMIZI KULLANARAK YENİ İNTERNET KAMPANYALARINDAN ANINDA HABERDAR OLABİLİRİSİNİZ.)</b></em><br></p>"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://i.ibb.co/TcNNzJ6/voooda.jpg",
+      "state" : "free",
+      "title" : "📢SüperMarket Yanımda haftalık 10GB internet kazan📢",
+      "description" : "",
+      "written" : "<ul><li>Süpermarket Yanımda’dan alışveriş yapmak çok avantajlı! Sen de hemen Vodafone Yanımda’ya gir, Süpermarket Yanımda’ya tıkla, ilk alışverişince hem 20TL indirim hem de haftalık 10GB internet kazan.<br></li><li>Sonraki tüm alışverilerinde ise haftalık 2GB internet Vodafone’dan hediye.27 kategoride 7000’den fazla ürün seçeneği ve her 2 haftada 1 yenilenen 100’den fazla çok özel kampanyayla tüm market alışverişlerin Vodafone Yanımda’yla kapında.<br></li></ul>"
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://i.ibb.co/tCcB9v1/3ay.jpg",
+      "state" : "free",
+      "title" : "📢Vodafone İlk 3 Ay 6GB Bedava İnternet Kampanyası📢",
+      "description" : "",
+      "written" : "<ul><li>&nbsp;Vodafone farklı şekillerde, farklı kampanyalar düzenleyerek, kullanıcılarına özel hediyeler sunan bir GSM operatörü. Yeni abonelere, hali hazırda abonesi olanlara yaptığı bu kampanyalar, kullanıcılar tarafından da beğeni kazanıyor. Son olarak Vodafone ilk 3 ay 6GB bedava internet kampanyası düzenledi. Bu kampanya kapsamına faturalı ve faturasız aboneler giriş yapabiliyorlar. Yeni abone olmak isteyenleri kapsayan kampanyada, eski aboneler yararlanamıyor. Bir hat sadece bir kez kampanya dahiline girebiliyor. Başvurular ise Dijital ortam menülerinden yapılabiliyor. Sizler de mevcut operatörünüzden memnun değilseniz, Vodafone abonesi olmak ve bunu da avantaja çevirmek isterseniz, hemen kampanya katılım koşullarını yerine getirerek, bedavaları alabilirsiniz.<br></li></ul><p><b>✓ Vodafone 6GB Bedava İnternet Nasıl Kazanılır <br></b></p><ul><li>Abonelik işlemini başlatarak, kampanya dahilinde ki hediyeleri kazanmak için Vodafone internet sayfasına giriş yapın. Numara taşıma ve yeni abonelik kısmına geçin. Başvuruyu Vodafone Yanımda aracılığı ile de yapabilirsiniz. Kampanya kapsamı; Uyumlu 5, Red 20, Yeni Süper Uyumlu, Uyumlu Genç 4, Red 25 ve Uyumlu 6 gibi tarifeleri kapsama almaktadır. Bu ve belirtilen diğer paketleri seçerek Vodafone bedava internet kazabilirsiniz. Online yaptığınız başvuru 2- 4 gün içinde size hattınızın ulaşmasıyla başlar. Genelde büyükşehirlerde 24 saat içinde fiziksel teslimat yapılmaktadır. Teslime gelen kuryeye, kimlik fotokopinizi verebilir ya da görselini almasına yardımcı olabilirsiniz. Bu şekilde işlemleriniz hızlı bir biçimde halledilmiş olacaktır.<br></li></ul>"
+    },
+    {
+      "id" : 6,
+      "imageURL" : "https://i.ibb.co/rwDrVPV/trk.jpg",
+      "state" : "free",
+      "title" : "📢30GB Bedava İnternet Kampanyası📢",
+      "description" : "",
+      "written" : "<ul><li>Bimcell ve Türk Telekom faturasız hatlar için kişiye özel kampanyasında birçok kişiye haftalık 30gb internet hediye ediyor. Kampanya belirli müşterilere özel ama sms ile deneyip alabiliyorsunuz. </li></ul><p><b>✓ Paketi almak için 30GB yazıp 5555’e mesaj gönderin<br></b></p><ul><li>Paketi 7 gün boyunca kullanabiliyorsunuz.<br></li></ul>"
+    },
+    {
+      "id" : 7,
+      "imageURL" : "https://i.ibb.co/SXh1r6P/turkcelllll.jpg",
+      "state" : "vip",
+      "title" : "📢Turkcell Sürpriz Nokta Hilesi 2021📢",
+      "description" : "",
+      "written" : "<ul><li>Turkcell Sürpriz Nokta hilesi ile bedava internet nasıl kazanılır göstermiştik sizlere, şimdi ise bu yazı sayesinde Turkcell Bip uygulaması üzerinden oynamış olduğunuz Sürpriz Nokta Kampanyası taktikleri sayesinde hiç yorulmadan hediyeler toplayabileceksiniz. Ve bu hediyeler sayesinde hattınıza hiçbir ücret ödemeden rahat bir şekilde doya doya kullanabileceksiniz.</li><li>Turkcell Bedava internet 2021 paketleri sayesinde yapılmış olan bu hizmetten ötürü çok mutluyuz, ancak eğer taktikler fark edilirse bu projenin’de iptal olabileceğini düşünebiliriz. Ya da taktiği açığını kapatmak için uğraşabilirler, konumuz o değil şimdi gelelim Turkcell Sürpriz Nokta taktiği nasıl yapılacağını öğrenelim ve başkaları toplamadan kutularımızı toplayarak keyfimize bakalım.</li></ul>"
+    },
+    {
+      "id" : 8,
+      "imageURL" : "https://i.ibb.co/VDFH62f/pll.jpg",
+      "state" : "vip",
+      "title" : "📢Vodafone Yanımda 10 GB Bedava İnternet Kampanyası📢",
+      "description" : "",
+      "written" : "<ul><li>Vodafone Yanımda uygulaması ile birlikte yeni bir kampanyaya hizmet ediyor. Sizlerde bu kampanyadan yararlanarak 10 GB bedava internet kazanabilirsiniz. Vodafone daha önce yapmış olduğu kampanyalara bir yenisini getirerek Süper Market uygulamasını devreye sokmuş durumda. Bu uygulama ile birlikte de kullanıcılarına hediye internet paketi vererek alışveriş yapmalarını sağlıyor.</li><li>Sizlerde Vodafone Faturalı veya Faturasız kullanıcılar arasında iseniz bu kampanyadan yararlanarak haftalık 10 GB internet paketi kazanabilirsiniz. Bu kampanya sayesinde ücretsiz olarak internet sahibi olabilirsiniz. Kampanya içerisinde 2 GB ve 10 GB gibi farklı türde hediye internet paketi seçenekleri yer almakta. Kampanya detaylarına ve katılma şartlarını incelemek için aşağıdaki adımları kontrol edebilirsiniz.</li></ul>"
+    }
+  ]
+}
